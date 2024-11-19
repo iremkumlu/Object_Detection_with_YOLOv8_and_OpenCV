@@ -1,0 +1,2 @@
+# Object_Detection_with_YOLOv8_and_OpenCV
+ Object Detection
